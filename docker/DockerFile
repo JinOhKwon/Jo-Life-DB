@@ -1,0 +1,5 @@
+# FROM mongo:4.4.2
+
+# apt-get update
+# apt-get install vim
+# COPY init.js /docker-entrypoint-initdb.d/
